@@ -7,10 +7,9 @@
 
 <h1>Execution</h1>
 
-<p align="left">
+<h3>Enter details and click "Place Order" to see reciept details</h3>
 <img width="400" height="700" alt="Screen Shot 2022-06-29 at 5 14 55 PM" src="https://user-images.githubusercontent.com/94927484/176546189-4be2fe9f-122a-4d50-b721-6d8c18a0810e.png">
 
-</p>
 
 <h1>Built With</h1>
 <li>Java</li>
